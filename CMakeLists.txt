@@ -3,11 +3,12 @@
 # Building (out of source build):
 # > mkdir build && cd build
 # > cmake .. [-DSETTINGS=VALUE]
+#bla bla bla
 # > cmake --build .
 #
 # Testing:
-# > ctest -V
-#
+# > ctest -V 
+# 
 # Install:
 # > cmake --build . --target install
 
@@ -299,3 +300,5 @@ ENDIF()
 
 FEATURE_SUMMARY(WHAT ENABLED_FEATURES DESCRIPTION "Enabled features:")
 FEATURE_SUMMARY(WHAT DISABLED_FEATURES DESCRIPTION "Disabled features:")
+ce faci azi?
+Ce faci azi?
